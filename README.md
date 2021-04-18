@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TuomasJaa
 - 👀 I’m interested in video and camera systems integrations
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Python and VB .net
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
